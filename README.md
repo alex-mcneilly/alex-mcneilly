@@ -1,16 +1,23 @@
-### Hi there 👋
+# Alexander Mcneilly
 
-<!--
-**alex-mcneilly/alex-mcneilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Alexander Mcneilly](mcneilly.png)
 
-Here are some ideas to get you started:
+I'm a builder passionate about software, computer graphics, spatial computing, and AI. My life's mission is to augment human intelligence and emotion.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I study CS at MIT. Also building [Splocks](http://splocks.org/).
+
+### Contact
+
+mcneilly [at] mit [dot] edu
+
+### Links
+
+- [[Resume [PDF]](alexander_mcneilly_resume.pdf)](https://alex-mcneilly.github.io/alexander_mcneilly_resume.pdf)
+- [[Projects](projects.html)](https://alex-mcneilly.github.io/projects.html)
+- [[Reading Log](reading.html)](https://alex-mcneilly.github.io/resume.html)
+
+### Most Recent Notes
+
+- [["Sandbox" Software — 02 01 24](notes/2024/02/sandbox.html)](https://alex-mcneilly.github.io/notes/2024/02/sandbox.html)
+- [[Five (Sets of) Founders I Really Like — 01 29 24](notes/2024/01/five-founders.html)](https://alex-mcneilly.github.io/notes/2024/01/five-founders.html)
+- [[We will all become Walt Disney — 01 13 24](notes/2024/01/walt-disney.html)](https://alex-mcneilly.github.io/notes/2024/01/walt-disney.html)https://alex-mcneilly.github.io/notes/2024/01/walt-disney.html
