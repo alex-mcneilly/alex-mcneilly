@@ -11,9 +11,9 @@ mcneilly [at] mit [dot] edu
 
 ### Links
 
-- [[Resume [PDF]](alexander_mcneilly_resume.pdf)](https://alex-mcneilly.github.io/alexander_mcneilly_resume.pdf)
-- [[Projects](projects.html)](https://alex-mcneilly.github.io/projects.html)
-- [[Reading Log](reading.html)](https://alex-mcneilly.github.io/resume.html)
+- [Resume [PDF]](https://alex-mcneilly.github.io/alexander_mcneilly_resume.pdf)
+- [Projects](https://alex-mcneilly.github.io/projects.html)
+- [Reading Log](https://alex-mcneilly.github.io/resume.html)
 
 ### Most Recent Notes
 
