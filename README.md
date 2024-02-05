@@ -1,6 +1,5 @@
 # Alexander Mcneilly
 
-![Alexander Mcneilly](mcneilly.png)
 
 I'm a builder passionate about software, computer graphics, spatial computing, and AI. My life's mission is to augment human intelligence and emotion.
 
