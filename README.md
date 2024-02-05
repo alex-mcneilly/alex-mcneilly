@@ -7,7 +7,7 @@ Currently, I study CS at MIT. Also building [Splocks](http://splocks.org/).
 
 ### Contact
 
-mcneilly [at] mit [dot] edu
+- [mcneilly [at] mit [dot] edu](mailto:mcneilly@mit.edu)
 
 ### Links
 
@@ -17,6 +17,6 @@ mcneilly [at] mit [dot] edu
 
 ### Most Recent Notes
 
-- [["Sandbox" Software — 02 01 24](notes/2024/02/sandbox.html)](https://alex-mcneilly.github.io/notes/2024/02/sandbox.html)
-- [[Five (Sets of) Founders I Really Like — 01 29 24](notes/2024/01/five-founders.html)](https://alex-mcneilly.github.io/notes/2024/01/five-founders.html)
-- [[We will all become Walt Disney — 01 13 24](notes/2024/01/walt-disney.html)](https://alex-mcneilly.github.io/notes/2024/01/walt-disney.html)https://alex-mcneilly.github.io/notes/2024/01/walt-disney.html
+- ["Sandbox" Software — 02 01 24](https://alex-mcneilly.github.io/notes/2024/02/sandbox.html)
+- [Five (Sets of) Founders I Really Like — 01 29 24](https://alex-mcneilly.github.io/notes/2024/01/five-founders.html)
+- [We will all become Walt Disney — 01 13 24](https://alex-mcneilly.github.io/notes/2024/01/walt-disney.html)https://alex-mcneilly.github.io/notes/2024/01/walt-disney.html
