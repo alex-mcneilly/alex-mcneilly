@@ -7,7 +7,7 @@ Currently, I study CS at MIT. Also building [Splocks](http://splocks.org/).
 
 ### Contact
 
-- [mcneilly [at] mit [dot] edu](mailto:mcneilly@mit.edu)
+[mcneilly [at] mit [dot] edu](mailto:mcneilly@mit.edu)
 
 ### Links
 
