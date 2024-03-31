@@ -1,9 +1,9 @@
 # Alexander Mcneilly
 
 
-I'm a builder passionate about software, computer graphics, spatial computing, and AI. My life's mission is to augment human intelligence and emotion.
+Exploring computation, data, and design.
 
-Currently, I study CS at MIT. Also building [Splocks](http://splocks.org/).
+Studying CS at MIT. Also building [Splocks](http://splocks.org/).
 
 ### Contact
 
@@ -15,8 +15,4 @@ Currently, I study CS at MIT. Also building [Splocks](http://splocks.org/).
 - [Projects](https://alex-mcneilly.github.io/projects.html)
 - [Reading Log](https://alex-mcneilly.github.io/resume.html)
 
-### Most Recent Notes
-
-- ["Sandbox" Software — 02 01 24](https://alex-mcneilly.github.io/notes/2024/02/sandbox.html)
-- [Five (Sets of) Founders I Really Like — 01 29 24](https://alex-mcneilly.github.io/notes/2024/01/five-founders.html)
-- [We will all become Walt Disney — 01 13 24](https://alex-mcneilly.github.io/notes/2024/01/walt-disney.html)https://alex-mcneilly.github.io/notes/2024/01/walt-disney.html
+### Projects
