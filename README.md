@@ -1,7 +1,7 @@
 # Alexander Mcneilly
 
 
-Exploring computation, data, and design.
+I like exploring software, design, and 3D graphics.
 
 Studying CS at MIT. Also building [Splocks](http://splocks.org/).
 
@@ -12,7 +12,8 @@ Studying CS at MIT. Also building [Splocks](http://splocks.org/).
 ### Links
 
 - [Resume [PDF]](https://alex-mcneilly.github.io/alexander_mcneilly_resume.pdf)
-- [Projects](https://alex-mcneilly.github.io/projects.html)
-- [Reading Log](https://alex-mcneilly.github.io/resume.html)
+- [Personal Website](https://alex-mcneilly.github.io/)
 
 ### Projects
+
+- List coming soon
