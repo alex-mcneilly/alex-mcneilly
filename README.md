@@ -1,4 +1,4 @@
-# Alexander R. Mcneilly
+# Alexandr R. Mcneilly
 
 
 I'm interested in high-performance systems, machine learning, and comptuer graphics.
