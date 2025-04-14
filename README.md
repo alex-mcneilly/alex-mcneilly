@@ -1,7 +1,7 @@
 # Alexander R. Mcneilly
 
 
-I'm interested in high-performance systems, machine learning, and comptuer graphics.
+I'm interested in high-performance systems, 3D machine learning, spatial computing, and web graphics.
 
 ### Contact
 
